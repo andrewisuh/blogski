@@ -17,18 +17,6 @@ const FooterOne = () => {
                 <div className="inner">
                   <ul className="ft-menu-list">
                     <li>
-                      <a href="#">U.N.</a>
-                    </li>
-                    <li>
-                      <a href="#">Conflicts</a>
-                    </li>
-                    <li>
-                      <a href="#">Terrorism</a>
-                    </li>
-                    <li>
-                      <a href="#">Disasters</a>
-                    </li>
-                    <li>
                       <a href="#">Global Economy</a>
                     </li>
                     <li>
@@ -77,39 +65,7 @@ const FooterOne = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-2 col-md-6 col-sm-6 col-12">
-              <div className="footer-widget">
-                <h2 className="title">Entertainment</h2>
-                <div className="inner">
-                  <ul className="ft-menu-list">
-                    <li>
-                      <a href="#">Celebrity News</a>
-                    </li>
-                    <li>
-                      <a href="#">Movies</a>
-                    </li>
-                    <li>
-                      <a href="#">TV News</a>
-                    </li>
-                    <li>
-                      <a href="#">Disasters</a>
-                    </li>
-                    <li>
-                      <a href="#">Music News</a>
-                    </li>
-                    <li>
-                      <a href="#">Environment</a>
-                    </li>
-                    <li>
-                      <a href="#">Style News</a>
-                    </li>
-                    <li>
-                      <a href="#">Entertainment Video</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+           
             <div className="col-lg-2 col-md-6 col-sm-6 col-12">
               <div className="footer-widget">
                 <h2 className="title">Business</h2>

@@ -6,7 +6,7 @@ const BreadcrumbTwo = ({bgImae, title, paragraph}) => {
         <div className="row">
           <div className="col-lg-12">
             <div className="inner">
-              <h1 className="title">{title || "Title"}</h1>
+              <h1 className="title">{title || "overreacted"}</h1>
               <p className="description" dangerouslySetInnerHTML={{__html: paragraph}}></p>
             </div>
           </div>
