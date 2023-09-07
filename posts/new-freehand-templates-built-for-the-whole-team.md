@@ -2,7 +2,7 @@
 postFormat: 'quote'
 title: 'New: Freehand Templates, built for the whole team'
 featureImg: '/images/posts/post-list-04.webp'
-quotePost: true
+quotePost: false
 date: 'Feb 16 2022'
 pCate: 'Tech Blog'
 cate: 'Design'

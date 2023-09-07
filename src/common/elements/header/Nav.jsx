@@ -6,7 +6,7 @@ import { slugify } from "../../utils";
 const filters = [
     {
       id: 1,
-      cate: "Design",
+      cate: "Personal",
     },
     {
       id: 2,
@@ -14,11 +14,11 @@ const filters = [
     },
     {
       id: 3,
-      cate: "SEO",
+      cate: "Fitness",
     },
     {
       id: 4,
-      cate: "Research",
+      cate: "Technology",
     },
   ];
 
@@ -54,60 +54,7 @@ const Nav = ({posts}) => {
     return (
         <ul className="mainmenu">
             <li className="menu-item-has-children"><a href="#">Home</a>
-                <ul className="axil-submenu">
-                    <li>
-                        <Link href="/">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Default">Home Default</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/creative-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Creative Blog">Home Creative Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/seo-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home SEO Blog">Home SEO Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/tech-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Tech Blog">Home Tech Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/lifestyle-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Lifestyle Blog">Home Lifestyle Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <a href="https://new.axilthemes.com/demo/react/blogar-rtl" className="hover-flip-item-wrapper">
-                            <span className="hover-flip-item">
-                                <span data-text="RTL Version">RTL Version</span>
-                            </span>
-                        </a>
-                    </li>
-                </ul>
+                
             </li>
             <li className="menu-item-has-children">
                 <Link href="/">
@@ -115,10 +62,10 @@ const Nav = ({posts}) => {
                 </Link>
                 <ul className="axil-submenu">
                     <li>
-                        <Link href="/post/beauty-of-deep-space-billions-of-galaxies-in-the-universe.">
+                        <Link href="/post-list">
                             <a className="hover-flip-item-wrapper">
                                 <span className="hover-flip-item">
-                                    <span data-text="Post Format Standard">Post Format Standard</span>
+                                    <span data-text="Archive">Archive</span>
                                 </span>
                             </a>
                         </Link>
@@ -163,7 +110,7 @@ const Nav = ({posts}) => {
             </li>
             <li className="menu-item-has-children megamenu-wrapper">
                 <Link href="#">
-                    <a>Mega Menu</a>
+                    <a>Quick Menu</a>
                 </Link>
                 <ul className="megamenu-sub-menu">
                     <li className="megamenu-item">
@@ -315,16 +262,8 @@ const Nav = ({posts}) => {
                     </li>
                 </ul>
             </li>
-            <li>
-                <Link href="/lifestyle-blog">
-                    <a>Lifestyle</a>
-                </Link>
-            </li>
-            <li>
-                <Link href="/tech-blog">
-                    <a>Gadgets</a>
-                </Link>
-            </li>
+            
+           
         </ul>
     );
 }

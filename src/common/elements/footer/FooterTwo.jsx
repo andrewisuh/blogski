@@ -67,49 +67,12 @@ const FooterTwo = () => {
                   <Link href="/about">
                     <a className="hover-flip-item-wrapper">
                       <span className="hover-flip-item">
-                        <span data-text="Contact Us">Contact Us</span>
+                        <span data-text="Contact Us">Contact</span>
                       </span>
                     </a>
                     </Link>
                   </li>
-                  <li>
-                  <Link href="/privacy-policy">
-                    <a className="hover-flip-item-wrapper">
-                      <span className="hover-flip-item">
-                        <span data-text="Privacy Policy">Privacy Policy</span>
-                      </span>
-                    </a>
-                    </Link>
-                  </li>
-                  <li>
-                  <Link href="#">
-                    <a className="hover-flip-item-wrapper">
-                      <span className="hover-flip-item">
-                        <span data-text="AdChoices">AdChoices</span>
-                      </span>
-                    </a>
-                    </Link>
-                  </li>
-                  <li>
-                  <Link href="#">
-                    <a className="hover-flip-item-wrapper">
-                      <span className="hover-flip-item">
-                        <span data-text="Advertise with Us">
-                          Advertise with Us
-                        </span>
-                      </span>
-                    </a>
-                    </Link>
-                  </li>
-                  <li>
-                  <Link href="#">
-                    <a className="hover-flip-item-wrapper">
-                      <span className="hover-flip-item">
-                        <span data-text="Blogar Store">Blogar Store</span>
-                      </span>
-                    </a>
-                    </Link>
-                  </li>
+
                 </ul>
               </div>
             </div>
