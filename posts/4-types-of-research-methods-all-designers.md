@@ -1,17 +1,17 @@
 ---
 postFormat: 'standard'
-title: 'Testing'
+title: '4 types of research methods all designers should know'
 featureImg: '/images/posts/thumbnail-01.webp'
 slidePost: true
-date: 'Feb 30 2022'
-pCate: 'Tech Blog'
-cate: 'Design'
+date: 'September 7, 2023'
+pCate: 'Personal'
+cate: 'Personal'
 cate_img: '/images/posts/category/design.webp'
-post_views: '200K Views'
-read_time: '3 min read'
-author_name: 'Rose Mary'
+post_views: '~100 Views'
+read_time: '5 min read'
+author_name: 'Andrew Suh'
 author_img: '/images/posts/author/author-b2.webp'
-author_designation: 'Sr. UX Designer'
+author_designation: 'Author'
 author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
 author_social:
     -

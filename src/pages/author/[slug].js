@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getAllPosts } from '../../../lib/api';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
+import FooterOne from '../../common/elements/footer/FooterThree';
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import PostLayoutTwo from '../../common/components/post/layout/PostLayoutTwo';
 import SidebarOne from "../../common/components/sidebar/SidebarOne";

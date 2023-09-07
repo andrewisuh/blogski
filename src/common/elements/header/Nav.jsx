@@ -6,7 +6,7 @@ import { slugify } from "../../utils";
 const filters = [
     {
       id: 1,
-      cate: "Design",
+      cate: "Personal",
     },
     {
       id: 2,
@@ -14,11 +14,11 @@ const filters = [
     },
     {
       id: 3,
-      cate: "SEO",
+      cate: "Fitness",
     },
     {
       id: 4,
-      cate: "Research",
+      cate: "Technology",
     },
   ];
 
@@ -53,117 +53,18 @@ const Nav = ({posts}) => {
     
     return (
         <ul className="mainmenu">
-            <li className="menu-item-has-children"><a href="#">Home</a>
-                <ul className="axil-submenu">
-                    <li>
-                        <Link href="/">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Default">Home Default</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/creative-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Creative Blog">Home Creative Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/seo-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home SEO Blog">Home SEO Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/tech-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Tech Blog">Home Tech Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/lifestyle-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Lifestyle Blog">Home Lifestyle Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <a href="https://new.axilthemes.com/demo/react/blogar-rtl" className="hover-flip-item-wrapper">
-                            <span className="hover-flip-item">
-                                <span data-text="RTL Version">RTL Version</span>
-                            </span>
-                        </a>
-                    </li>
-                </ul>
+            <li className="menu-item-has-children"><a href="/">Home</a>
+                
             </li>
             <li className="menu-item-has-children">
-                <Link href="/">
-                    <a>Posts</a>
+                <Link href="/post-list">
+                    <a>Archive</a>
                 </Link>
-                <ul className="axil-submenu">
-                    <li>
-                        <Link href="/post/beauty-of-deep-space-billions-of-galaxies-in-the-universe.">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Format Standard">Post Format Standard</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/post/flutter-the-good-the-bad-and-the-ugly">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Format Video">Post Format Video</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/post/fashion-young-handsome-man-in-casual-watch">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Format Gallery">Post Format Gallery</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/post/lightweight-grippable-and-ready-to-go">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Format Audio">Post Format Audio</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/post/new-freehand-templates-built-for-the-whole-team">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Format Quote">Post Format Quote</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                </ul>
+
             </li>
             <li className="menu-item-has-children megamenu-wrapper">
                 <Link href="#">
-                    <a>Mega Menu</a>
+                    <a>Quick Menu</a>
                 </Link>
                 <ul className="megamenu-sub-menu">
                     <li className="megamenu-item">
@@ -237,94 +138,12 @@ const Nav = ({posts}) => {
                 </ul>
             </li>
             <li className="menu-item-has-children">
-                <Link href="/">
-                    <a>Pages</a>
-                </Link>
-                <ul className="axil-submenu">
-                    <li>
-                        <Link href="/post-list">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post List">Post List</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/category/design">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Post Archive">Post Archive</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/author/rose-mary">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Author Page">Author Page</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/about">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="About Page">About Page</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/contact">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Contact Us">Contact Us</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/404">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="404 Page">404 Page</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/maintenance">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Maintenance">Maintenance</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/privacy-policy">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Privacy Policy">Privacy Policy</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <Link href="/lifestyle-blog">
-                    <a>Lifestyle</a>
+                <Link href="/author/rose-mary">
+                    <a>About</a>
                 </Link>
             </li>
-            <li>
-                <Link href="/tech-blog">
-                    <a>Gadgets</a>
-                </Link>
-            </li>
+            
+           
         </ul>
     );
 }
