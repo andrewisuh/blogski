@@ -1,5 +1,5 @@
 import InstagramOne from '../common/components/instagram/InstagramOne';
-import FooterOne from '../common/elements/footer/FooterOne';
+import FooterThree from '../common/elements/footer/FooterThree';
 import HeadTitle from '../common/elements/head/HeadTitle';
 import HeaderOne from '../common/elements/header/HeaderOne';
 import { getAllPosts } from '../../lib/api';
@@ -20,7 +20,7 @@ const HomeDefault = ({allPosts}) => {
  
   return ( 
     <>
-      <HeadTitle pageTitle="Drew Minaj" />
+      <HeadTitle pageTitle="overreacted" />
       <HeaderOne postData={allPosts}/>
       <SliderOne postData={allPosts} />
       <PostSectionOne postData={allPosts}/>
@@ -32,7 +32,7 @@ const HomeDefault = ({allPosts}) => {
       <PostSectionFour postData={allPosts} adBanner={true} />
       <PostSectionThree postData={videoPost} heading="Featured Video"/>
       <InstagramOne parentClass="bg-color-grey"/>
-      <FooterOne />
+      <FooterThree />
       
     </>
    );
