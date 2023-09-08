@@ -67,7 +67,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                   <div className="post-meta">
                     <div className="content">
                       <h6 className="post-author-name">
-                        <Link href={`/author/${slugify(firstPost.author_name)}`}>
+                        <Link href={`drewisuh`}>
                           <a className="hover-flip-item-wrapper">
                             <span className="hover-flip-item">
                               <span data-text={firstPost.author_name}>
