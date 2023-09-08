@@ -25,7 +25,7 @@ const PostListPage = ({ allPosts }) => {
 
     return (
         <>
-        <HeadTitle pageTitle="Post Archive" />
+        <HeadTitle pageTitle="overreacted" />
             <HeaderOne postData={allPosts} pClass="header-light header-sticky header-with-shadow" />
             <div className="axil-post-list-area axil-section-gap bg-color-white">
                 <div className="container">

@@ -13,7 +13,7 @@ const PostCategory = ({ postData, allPosts }) => {
 	
 	return (
 		<>
-		<HeadTitle pageTitle="Category Archive"/>
+		<HeadTitle pageTitle="overreacted"/>
 		<HeaderOne postData={allPosts} />
 		<BreadcrumbOne title={postData[0].cate} />
 		<div className="axil-post-list-area axil-section-gap bg-color-white">

@@ -25,7 +25,6 @@ const HomeDefault = ({allPosts}) => {
       <SliderOne postData={allPosts} />
       <PostSectionOne postData={allPosts}/>
       <PostSectionFive postData={allPosts}/>
-      <CategoryList cateData={allPosts}/>
       <PostSectionThree postData={videoPost} heading="Featured Videos"/>
       <FooterThree />
       

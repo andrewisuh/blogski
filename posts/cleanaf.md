@@ -1,15 +1,16 @@
 ---
-postFormat: 'standard'
-title: 'A good traveler has no fixed plans, and is not intent on arriving.'
-featureImg: '/images/posts/thumbnail-07.webp'
-date: 'Apr 11 2022'
-pCate: 'Lifestyle Blog'
-cate: 'Travel'
-cate_img: '/images/posts/category/travel.webp'
+postFormat: 'video'
+title: 'cleanaf'
+featureImg: '/images/posts/post-dark-01.webp'
+videoLink: 'https://www.youtube.com/embed/U3v5yMF1hTs?origin=https://new.axilthemes.com/'
+date: 'Mar 20 2022'
+pCate: 'Personal'
+cate: 'Personal'
+cate_img: '/images/posts/category/technology.webp'
 post_views: '300K Views'
 read_time: '3 min read'
-author_name: 'Rahabi Khan'
-author_img: '/images/posts/author/author-b1.webp'
+author_name: '@drewminaj'
+author_img: '/images/posts/author/author-b4.webp'
 author_designation: 'Sr. UX Designer'
 author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
 author_social:
@@ -26,7 +27,7 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
+    - Wordpress Development
     - Life Style
     - Web Design
     - Development

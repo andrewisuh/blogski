@@ -14,7 +14,7 @@ const AuthorArchive = ({ authorData, allPosts }) => {
   
     return (
         <>
-        <HeadTitle pageTitle="Author Archive" />
+        <HeadTitle pageTitle="overreacted" />
             <HeaderOne postData={allPosts} />
             <div className="axil-author-area axil-author-banner bg-color-grey">
                 <div className="container">

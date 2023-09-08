@@ -12,10 +12,10 @@ import HeadTitle from "../common/elements/head/HeadTitle";
 const AboutUs = ({allPosts}) => {
     return (
         <>
-        <HeadTitle pageTitle="About Us" />
+        <HeadTitle pageTitle="About" />
             <HeaderOne postData={allPosts} />
             <BreadcrumbTwo
-                title="About Us"
+                title="About"
                 paragraph="Wherever &amp; whenever you need us. We are here for you – contact us for all your support needs. <br />
             be it technical, general queries or information support."
                 bgImae="url('images/bg/bg-image-1.webp')"

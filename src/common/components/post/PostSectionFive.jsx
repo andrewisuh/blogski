@@ -58,7 +58,7 @@ const PostSectionFive = ({ postData }) => {
   return (
     <div className="axil-post-grid-area axil-section-gap bg-color-grey">
       <div className="container">
-        <SectionTitleOne title="Most Popular" />
+        <SectionTitleOne title="By Category" />
         <div className="row">
           <div className="col-lg-12">
             <Tab.Container id="axilTab" defaultActiveKey={activeNav}>
