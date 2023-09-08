@@ -10,7 +10,7 @@ const CategoryList = ({cateData}) => {
   return (
     <div className="axil-categories-list axil-section-gap bg-color-grey">
       <div className="container">
-        <SectionTitleTwo title="Trending Topics" btnText="See All Topics"/>
+        <SectionTitleTwo title="Browse Topics" btnText="See All Topics"/>
         <div className="row">
           <div className="col-lg-12">
             {/* Start List Wrapper  */}

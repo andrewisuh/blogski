@@ -26,7 +26,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
             <div className="content-block post-default image-rounded mt--30">
             {firstPost.featureImg ? 
               <div className="post-thumbnail">
-                <Link href={`/post/${firstPost.slug}`}>
+                <Link href={`https://www.youtube.com/watch?v=sTdFBBF8LSY`}>
                   <a>
                     <Image
                       src={firstPost.featureImg}
@@ -37,7 +37,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                     />
                   </a>
                 </Link>
-                {firstPost.postFormat === 'video' ? <Link href={`/post/${firstPost.slug}`}>
+                {firstPost.postFormat === 'video' ? <Link href={`https://www.youtube.com/watch?v=sTdFBBF8LSY`}>
                   <a className="video-popup position-top-center">
                     <span className="play-icon" />
                   </a>
@@ -59,7 +59,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                   </div>
                 </div>
                 <h3 className="title">
-                  <Link href={`/post/${firstPost.slug}`}>
+                  <Link href={`https://www.youtube.com/watch?v=sTdFBBF8LSY`}>
                     <a>{firstPost.title}</a>
                   </Link>
                 </h3>
@@ -67,7 +67,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                   <div className="post-meta">
                     <div className="content">
                       <h6 className="post-author-name">
-                        <Link href={`drewisuh`}>
+                        <Link href={`/author/${slugify(firstPost.author_name)}`}>
                           <a className="hover-flip-item-wrapper">
                             <span className="hover-flip-item">
                               <span data-text={firstPost.author_name}>

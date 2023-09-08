@@ -12,15 +12,15 @@ const filters = [
  
   {
     id: 1,
-    cate: "Gadget",
+    cate: "Personal",
   },
   {
     id: 2,
-    cate: "Design",
+    cate: "Travel",
   },
   {
     id: 3,
-    cate: "Marketing",
+    cate: "Fitness",
   },
   {
     id: 4,
@@ -83,7 +83,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
     dots: false,
     infinite: true,
     speed: 500,
-    slidesToShow: 3,
+    slidesToShow: 4,
     slidesToScroll: 1,
     nextArrow: <SlickNextArrow />,
     prevArrow: <SlickPrevArrow />,
@@ -97,7 +97,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
       {
         breakpoint: 768,
         settings: {
-          slidesToShow: 2,
+          slidesToShow: 1,
         },
       },
       {
