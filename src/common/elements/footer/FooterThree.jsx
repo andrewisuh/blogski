@@ -18,7 +18,7 @@ const FooterThree = ({bgColor, darkLogo, lightLogo}) => {
         <div className="col-lg-12">
           {/* Start Post List  */}
           <div className="inner d-flex align-items-center flex-wrap">
-            <h5 className="follow-title mb--0 mr--20">Follow Us</h5>
+            <h5 className="follow-title mb--0 mr--20">Follow</h5>
             <ul className="social-icon color-tertiary md-size justify-content-start">
             <li>
                 <a href={SocialData.fb.url}>
