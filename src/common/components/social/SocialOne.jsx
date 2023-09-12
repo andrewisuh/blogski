@@ -30,18 +30,6 @@ const SocialOne = () => {
                 <span>Youtube</span>
               </a>
             </li>
-            <li className="pinterest">
-              <a href={SocialData.pinterest.url}>
-                <i className={SocialData.pinterest.icon} />
-                <span>Pinterest</span>
-              </a>
-            </li>
-            <li className="discord">
-              <a href={SocialData.discord.url}>
-                <i className={SocialData.discord.icon} />
-                <span>Discord</span>
-              </a>
-            </li>
           </ul>
         </div>
       </div>

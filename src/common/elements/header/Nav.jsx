@@ -138,7 +138,7 @@ const Nav = ({posts}) => {
                 </ul>
             </li>
             <li className="menu-item-has-children">
-                <Link href="/author/rose-mary">
+                <Link href="/author/andrew-suh">
                     <a>About</a>
                 </Link>
             </li>
