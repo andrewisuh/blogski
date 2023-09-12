@@ -1,8 +1,8 @@
 ---
 postFormat: 'video'
 title: 'and we are back'
-featureImg: '/images/posts/thumbnail-10.webp'
-videoLink: 'https://www.youtube.com/watch?v=SUf_xhb7CmU'
+featureImg: '/images/posts/post-grid-01.webp'
+videoLink: 'https://www.youtube.com/embed/SUf_xhb7CmU?si=bEnAIuRGtXm3Kx-8'
 featured: true
 date: 'Apr 29, 2020'
 pCate: 'Personal'
@@ -34,47 +34,10 @@ tags:
     - Development
     - UI/UX
     - Apps
-
 ---
 
-**Winners are recognized for outstanding app design, innovation, ingenuity, and technical achievement**
+**Description:** Too Much Fun
 
-![Post Images](/images/post-single/post-single-02.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
-
-Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-## Apple Design Award Winners: Apps
-
-Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-> “Most of us felt like we could trust each other to be quarantined together, so we didn’t need to wear masks or stay far apart.”
-
-![Post Images](/images/post-single/post-single-03.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
-
-## Apple Design Award Winners: Apps
-
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-![Post Images](/images/post-single/post-single-04.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
-
-## Apple Design Award Winners: Apps
-
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-More than 250 developers have been recognized with Apple Design Awards over the past 20 years. The recognition has proven to be an accelerant for developers who are pioneering innovative designs within their individual apps and influencing entire categories. Previous winners such as Pixelmator, djay, Complete Anatomy, HomeCourt, “Florence,” and “Crossy Road” have set the standard in areas such as storytelling, interface design, and use of Apple tools and technologies.
-
-For more information on the apps and games, visit the [App Store](#).
 
 
 

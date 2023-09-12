@@ -2,7 +2,7 @@ import markdownToHtml from '../../../lib/markdownToHtml';
 import { getPostBySlug, getAllPosts } from '../../../lib/api';
 import HeadTitle from '../../common/elements/head/HeadTitle';
 import HeaderOne from '../../common/elements/header/HeaderOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
+import FooterThree from '../../common/elements/footer/FooterThree';
 import PostFormatStandard from '../../common/components/post/format/PostFormatStandard';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
 import PostFormatVideo from '../../common/components/post/format/PostFormatVideo';
@@ -33,8 +33,7 @@ const PostDetails = ({ post, allPosts }) => {
 			<HeaderOne postData={allPosts} pClass="header-light header-sticky header-with-shadow"/>
 			<HeadTitle pageTitle={post.title} />
 			<PostFormatHandler />
-			<InstagramOne parentClass="bg-color-extra03"/>
-			<FooterOne />
+			<FooterThree />
 		</>
 	);
 }

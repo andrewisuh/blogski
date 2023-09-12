@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import ReactPaginate from 'react-paginate';
-import InstagramOne from "../common/components/instagram/InstagramOne";
 import FooterThree from "../common/elements/footer/FooterThree";
 import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
@@ -51,7 +50,7 @@ const PostListPage = ({ allPosts }) => {
                     </div>
                 </div>
             </div>
-            <InstagramOne parentClass="bg-color-grey" />
+           
             <FooterThree />
         </>
     );

@@ -1,6 +1,6 @@
 import ReactAudioPlayer from 'react-audio-player';
 import PostAuthor from "./element/PostAuthor";
-import SidebarTwo from "../../sidebar/SidebarTwo";
+import SidebarOne from "../../sidebar/SidebarOne";
 import PostMetaTwo from "./element/PostMetaTwo";
 import PostComment from "./element/PostComment";
 
@@ -27,12 +27,10 @@ const PostFormatAudio = ({ postData, allData }) => {
                   className="post-details-content"
                   dangerouslySetInnerHTML={{ __html: postContent }}
                 ></div>
-                <PostAuthor dataAuthor={postData} />
-                <PostComment />
               </div>
             </div>
             <div className="col-lg-4">
-              <SidebarTwo dataPost={allData} tagData={postData} />
+              <SidebarOne dataPost={allData} tagData={postData} />
             </div>
           </div>
         </div>

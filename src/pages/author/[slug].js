@@ -73,7 +73,7 @@ const AuthorArchive = ({ authorData, allPosts }) => {
                     </div>
                 </div>
             </div>
-            <InstagramOne parentClass="bg-color-grey" />
+            
             <FooterOne />
         </>
     );
