@@ -34,7 +34,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                                         className="dark-logo"
                                         width={141}
                                         height={37}
-                                        src={(colorMode === "Dark" ? lightLogo || "/images/logo/2.png" : darkLogo || "/images/logo/2.png") || "/images/logo/2.png" }
+                                        src={(colorMode === "Dark" ? lightLogo || "/images/logo/overreactedblack.png" : darkLogo || "/images/logo/overreactedwhite.png") || "/images/logo/overreactedwhite.png" }
                                         alt="overreacted logo"
                                         />
                                     </a>
