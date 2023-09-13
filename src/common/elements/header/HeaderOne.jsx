@@ -28,13 +28,13 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                     <div className="row justify-content-between align-items-center">
                         <div className="col-xl-3 col-lg-3 col-md-4 col-sm-3 col-12">
                             <div className="logo">
-                                <Link href="/">
+                                <Link href="/image/logo/2.png">
                                     <a>
                                         <Image
                                         className="dark-logo"
                                         width={141}
                                         height={37}
-                                        src={(colorMode === "Dark" ? lightLogo || "/images/logo/2.png" : darkLogo || "/images/logo/logo-black.webp") || "/images/logo/logo-black.webp" }
+                                        src={(colorMode === "Dark" ? lightLogo || "/images/logo/2.png" : darkLogo || "/images/logo/2.png") || "/images/logo/2.png" }
                                         alt="overreacted logo"
                                         />
                                     </a>
