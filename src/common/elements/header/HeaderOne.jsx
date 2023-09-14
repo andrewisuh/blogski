@@ -23,12 +23,12 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
     
     return (
         <>
-            <header className={`header axil-header ${pClass || ""}`}>
+            <header className={`header axil-header ${pClass || "#"}`}>
                 <div className="header-wrap">
                     <div className="row justify-content-between align-items-center">
                         <div className="col-xl-3 col-lg-3 col-md-4 col-sm-3 col-12">
                             <div className="logo">
-                                <Link href="/image/logo/2.png">
+                                <Link href="/">
                                     <a>
                                         <Image
                                         className="dark-logo"

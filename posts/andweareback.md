@@ -3,7 +3,7 @@ postFormat: 'video'
 title: 'and we are back'
 featureImg: '/images/posts/post-grid-01.webp'
 videoLink: 'https://www.youtube.com/embed/SUf_xhb7CmU?si=bEnAIuRGtXm3Kx-8'
-featured: true
+featured: false
 date: 'Apr 29, 2020'
 pCate: 'Personal'
 cate: 'Personal'
