@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "image": "/images/small-images/paris.webp",
-        "url": "https://www.instagram.com/p/Cv25PGYy9RH/?img_index=1"
+        "image": "/images/small-images/paris.png",
+        "url": "https://www.instagram.com/drewisuh/"
     },
     {
         "id": 2,
-        "image": "/images/small-images/instagram-md-02.webp",
-        "url": "#"
+        "image": "/images/small-images/backpack.png",
+        "url": "https://www.instagram.com/drewisuh/"
     },
     {
         "id": 3,
-        "image": "/images/small-images/instagram-md-03.webp",
-        "url": "#"
+        "image": "/images/small-images/la.png",
+        "url": "https://www.instagram.com/drewisuh/"
     },
     {
         "id": 4,
-        "image": "/images/small-images/instagram-md-04.webp",
-        "url": "#"
+        "image": "/images/small-images/iowa.png",
+        "url": "https://www.instagram.com/drewisuh/"
     },
     {
         "id": 5,
-        "image": "/images/small-images/instagram-md-05.webp",
-        "url": "#"
+        "image": "/images/small-images/enci.png",
+        "url": "https://www.instagram.com/drewisuh/"
     },
     {
         "id": 6,
-        "image": "/images/small-images/instagram-md-06.webp",
-        "url": "#"
+        "image": "/images/small-images/tennis.png",
+        "url": "https://www.instagram.com/drewisuh/"
     }
 ]

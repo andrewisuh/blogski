@@ -10,7 +10,7 @@ cate_img: '/images/posts/category/design.webp'
 post_views: '~300 Views'
 read_time: '5 min read'
 author_name: 'Andrew Suh'
-author_img: '/images/posts/author/author-b2.webp'
+author_img: '/images/posts/author/blogprofilepic.png'
 author_designation: 'Author'
 author_bio: 'Testing'
 author_social:
@@ -22,7 +22,7 @@ author_social:
         url: https://twitter.com
     -
         icon: fab fa-instagram
-        url: https://instagram.com
+        url: https://www.instagram.com/drewisuh/
     - 
         icon: fas fa-link
         url: https://linkedin.com
