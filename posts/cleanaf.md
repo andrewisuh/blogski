@@ -1,11 +1,11 @@
 ---
 postFormat: 'video'
 title: 'cleanaf'
-featureImg: '/images/posts/post-dark-01.webp'
+featureImg: '/images/posts/clean.png'
 videoLink: 'https://www.youtube.com/embed/1s50GaKSTLE?si=RCH763wLDkXTLhR7'
 date: 'Mar 20 2022'
 pCate: 'Personal'
-cate: 'Personal'
+cate: 'Lifestyle'
 cate_img: '/images/posts/category/technology.webp'
 post_views: '300K Views'
 read_time: '3 min read'

@@ -1,8 +1,6 @@
 import ReactAudioPlayer from 'react-audio-player';
-import PostAuthor from "./element/PostAuthor";
 import SidebarOne from "../../sidebar/SidebarOne";
 import PostMetaTwo from "./element/PostMetaTwo";
-import PostComment from "./element/PostComment";
 
 const PostFormatAudio = ({ postData, allData }) => {
 

@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'p.2'
-featureImg: '/images/posts/thumbnail-07.webp'
+featureImg: '/images/posts/p2cover.png'
 date: 'Apr 11 2022'
 pCate: 'Personal'
 cate: 'Personal'
@@ -9,7 +9,7 @@ cate_img: '/images/posts/category/travel.webp'
 post_views: '300K Views'
 read_time: '3 min read'
 author_name: 'Andrew Suh'
-author_img: '/images/posts/author/author-b1.webp'
+author_img: '/images/posts/author/blogprofilepic.png'
 author_designation: 'Author'
 author_bio: '#'
 author_social:
@@ -21,7 +21,7 @@ author_social:
         url: https://twitter.com
     -
         icon: fab fa-instagram
-        url: https://instagram.com
+        url: https://www.instagram.com/drewisuh/
     - 
         icon: fas fa-link
         url: https://linkedin.com

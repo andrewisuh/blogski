@@ -2,7 +2,7 @@ import { getAllPosts } from '../../../lib/api';
 import InstagramOne from '../../common/components/instagram/InstagramOne';
 import PostLayoutTwo from '../../common/components/post/layout/PostLayoutTwo';
 import BreadcrumbOne from '../../common/elements/breadcrumb/breadcrumbOne';
-import FooterOne from '../../common/elements/footer/FooterOne';
+import FooterThree from '../../common/elements/footer/FooterThree';
 import HeadTitle from "../../common/elements/head/HeadTitle";
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import SidebarOne from "../../common/components/sidebar/SidebarOne";
@@ -29,7 +29,7 @@ const PostCategory = ({ postData, allPosts }) => {
 			</div>
 		</div>
 		<InstagramOne parentClass="bg-color-grey" />
-		<FooterOne />
+		<FooterThree />
 
 		</>
 	);
