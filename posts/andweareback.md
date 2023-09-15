@@ -12,7 +12,7 @@ post_views: '300K Views'
 read_time: '2:54'
 author_name: 'Andrew Suh'
 author_img: '/images/posts/author/blogprofilepic.png'
-author_designation: 'Sr. UX Designer'
+author_designation: 'Author'
 author_bio: ''
 author_social:
     -
@@ -28,12 +28,7 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Apps
+
 ---
 
 **Description:** Too Much Fun

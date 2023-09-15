@@ -1,16 +1,10 @@
-import InstagramOne from '../common/components/instagram/InstagramOne';
 import FooterThree from '../common/elements/footer/FooterThree';
 import HeadTitle from '../common/elements/head/HeadTitle';
 import HeaderOne from '../common/elements/header/HeaderOne';
 import { getAllPosts } from '../../lib/api';
 import PostSectionOne from '../common/components/post/PostSectionOne';
-import PostSectionTwo from '../common/components/post/PostSectionTwo';
 import PostSectionThree from '../common/components/post/PostSectionThree';
-import CategoryList from '../common/components/category/CategoryList';
-import PostSectionFour from '../common/components/post/PostSectionFour';
-import SocialOne from '../common/components/social/SocialOne';
 import PostSectionFive from '../common/components/post/PostSectionFive';
-import PostSectionSix from '../common/components/post/PostSectionSix';
 import SliderOne from '../common/components/slider/SliderOne';
 
 
