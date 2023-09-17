@@ -1,3 +1,4 @@
+import InstagramOne from '../common/components/instagram/InstagramOne';
 import FooterThree from '../common/elements/footer/FooterThree';
 import HeadTitle from '../common/elements/head/HeadTitle';
 import HeaderOne from '../common/elements/header/HeaderOne';
