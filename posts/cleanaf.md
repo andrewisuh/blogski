@@ -12,7 +12,7 @@ read_time: '3 min read'
 author_name: 'Andrew Suh'
 author_img: '/images/posts/author/author-b4.webp'
 author_designation: 'Author'
-author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+author_bio: ''
 author_social:
     -
         icon: fab fa-facebook-f
@@ -27,12 +27,7 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - Wordpress Development
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+
 
 ---
 

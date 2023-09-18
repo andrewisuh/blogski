@@ -11,7 +11,7 @@ read_time: '3 min read'
 author_name: 'Andrew Suh'
 author_img: '/images/posts/author/blogprofilepic.png'
 author_designation: 'Author'
-author_bio: '#'
+author_bio: ''
 author_social:
     -
         icon: fab fa-facebook-f
@@ -26,12 +26,7 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-    - SEO
-    - Life Style
-    - Web Design
-    - Development
-    - UI/UX
-    - Software
+
 
 ---
 

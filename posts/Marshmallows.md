@@ -12,7 +12,7 @@ read_time: '5 min read'
 author_name: 'Andrew Suh'
 author_img: '/images/posts/author/blogprofilepic.png'
 author_designation: 'Author'
-author_bio: 'Testing'
+author_bio: ''
 author_social:
     -
         icon: fab fa-facebook-f
