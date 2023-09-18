@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "/images/small-images/paris.png",
+        "url": "https://open.spotify.com/playlist/22F789RLeWxvckY4rhMiCc?si=53c3fd7cfb444a86"
+    },
+    {
+        "id": 2,
+        "image": "/images/small-images/backpack.png",
+        "url": "#"
+    },
+    {
+        "id": 3,
+        "image": "/images/small-images/la.png",
+        "url": "#"
+    },
+    {
+        "id": 4,
+        "image": "/images/small-images/iowa.png",
+        "url": "#"
+    },
+    {
+        "id": 5,
+        "image": "/images/small-images/enci.png",
+        "url": "#"
+    },
+    {
+        "id": 6,
+        "image": "/images/small-images/tennis.png",
+        "url": "#"
+    }
+]

@@ -138,6 +138,11 @@ const Nav = ({posts}) => {
                 </ul>
             </li>
             <li className="menu-item-has-children">
+                <Link href="/extra">
+                    <a>Extra</a>
+                </Link>
+            </li>
+            <li className="menu-item-has-children">
                 <Link href="/author/andrew-suh">
                     <a>About</a>
                 </Link>

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import InstaData from '../../../data/instagram/instagram.json';
+import InstaData from '../../../data/instagram/spotify.json';
 
 
 const InstagramOne = ({parentClass}) => {
@@ -9,7 +9,7 @@ const InstagramOne = ({parentClass}) => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title">
-                            <h2 className="title">Instagram</h2>
+                            <h2 className="title">Spotify Playlists</h2>
                         </div>
                     </div>
                 </div>
