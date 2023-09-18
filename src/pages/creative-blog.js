@@ -13,7 +13,7 @@ const CreativeBlog = ({allPosts}) => {
     return ( 
         <>
         <HeadTitle pageTitle="Creative Blog" />
-        <HeaderOne postData={allPosts} pClass="header-dark" darkLogo="/images/logo/2.png" lightLogo="/images/logo/2.png" />
+        <HeaderOne postData={allPosts} pClass="header-dark" darkLogo="/images/logo/logo.png" lightLogo="/images/logo/logo1.png" />
         <SliderTwo postData={allPosts} />
         <CategoryList cateData={allPosts}/>
         <PostSectionTwo postData={allPosts} />

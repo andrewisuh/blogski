@@ -1,7 +1,6 @@
 import WidgetCategory from "./WidgetCategory";
 import WidgetInstagramPost from "./WidgetInstagramPost";
 import WidgetPostList from "./WidgetPostList";
-import WidgetSocialShare from "./WidgetSocialShare";
 
 const SidebarOne = ({dataPost}) => {
   return (
@@ -9,7 +8,6 @@ const SidebarOne = ({dataPost}) => {
       <WidgetCategory catData={dataPost}/>
       <WidgetPostList postData={dataPost}/>
       <WidgetInstagramPost />
-      <WidgetSocialShare />
     </div>
   );
 };
