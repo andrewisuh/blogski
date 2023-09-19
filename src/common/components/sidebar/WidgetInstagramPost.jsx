@@ -4,7 +4,7 @@ import InstaData from '../../../data/instagram/instagram.json';
 const WidgetInstagramPost = () => {
     return ( 
         <div className="axil-single-widget widget widget_instagram mb--30">
-        <h5 className="widget-title">Instagram</h5>
+        <h5 className="widget-title">Playlists</h5>
         <ul className="instagram-post-list-wrapper">
 			{InstaData.map((data) => (
 				<li className="instagram-post-list" key={data.id}>
@@ -13,7 +13,7 @@ const WidgetInstagramPost = () => {
 						src={data.image}
 						height={105}
 						width={105}
-						alt="Instagram Images"
+						alt="Spotify Playlists"
 					/>
 				 </a>
 			   </li>
