@@ -4,7 +4,6 @@ import HeadTitle from '../../common/elements/head/HeadTitle';
 import HeaderOne from '../../common/elements/header/HeaderOne';
 import FooterThree from '../../common/elements/footer/FooterThree';
 import PostFormatStandard from '../../common/components/post/format/PostFormatStandard';
-import InstagramOne from '../../common/components/instagram/InstagramOne';
 import PostFormatVideo from '../../common/components/post/format/PostFormatVideo';
 import PostFormatGallery from '../../common/components/post/format/PostFormatGallery';
 import PostFormatAudio from '../../common/components/post/format/PostFormatAudio';
